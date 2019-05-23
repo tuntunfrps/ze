@@ -26,6 +26,7 @@ public void main()
 	driver.get("http://google.com/");
 	String Actual_title=driver.getTitle();
 	System.out.println(Actual_title);
+	System.out.println("kkk");
 	Assert.assertEquals(Actual_title, "Google");
 	
 	

@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="11894" started-at="2019-05-22T15:14:14Z" finished-at="2019-05-22T15:14:26Z">
+  <suite name="Default suite" duration-ms="34993" started-at="2019-05-23T05:46:05Z" finished-at="2019-05-23T05:46:40Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="11894" started-at="2019-05-22T15:14:14Z" finished-at="2019-05-22T15:14:26Z">
+    <test name="Default test" duration-ms="34993" started-at="2019-05-23T05:46:05Z" finished-at="2019-05-23T05:46:40Z">
       <class name="ze.page1test">
-        <test-method status="PASS" signature="setup()[pri:0, instance:ze.page1test@5c3bd550]" name="setup" is-config="true" duration-ms="4448" started-at="2019-05-22T15:14:14Z" finished-at="2019-05-22T15:14:18Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:ze.page1test@5c3bd550]" name="setup" is-config="true" duration-ms="30726" started-at="2019-05-23T05:46:06Z" finished-at="2019-05-23T05:46:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="main()[pri:0, instance:ze.page1test@5c3bd550]" name="main" duration-ms="7391" started-at="2019-05-22T15:14:18Z" finished-at="2019-05-22T15:14:26Z">
+        <test-method status="PASS" signature="main()[pri:0, instance:ze.page1test@5c3bd550]" name="main" duration-ms="4214" started-at="2019-05-23T05:46:36Z" finished-at="2019-05-23T05:46:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- main -->
